@@ -1339,5 +1339,9 @@
     {
         "name": "Grade Grey",
         "colors": ["#bdc3c7","#2c3e50"]
+    },
+      {
+        "name": "Ruby Grade ",
+        "colors": ["#e0115f","#808080", “#b5a642]
     }
 ]
